@@ -1,0 +1,6 @@
+{
+  "name": "Arcana Archive — 78-Card Tarot Table & Compendium",
+  "description": "A free, ad-free, no-signup 78-card Rider-Waite-Smith tarot reading table, daily draw, card compendium, and private local session journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
